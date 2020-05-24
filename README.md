@@ -2,7 +2,7 @@
 Repository dedicated to NASA's Space Apps Challenges
 
 
-# Ressources
+## Ressources
 
 * [NASA Earth Data Program](https://earthdata.nasa.gov/)
   * [Getting Started](https://earthdata.nasa.gov/learn/getting-started)
