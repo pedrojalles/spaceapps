@@ -1,5 +1,5 @@
 # spaceapps
-Repository dedicated to NASA's Space Apps Challenges
+Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschallenge.org/)
 
 
 ## Ressources
@@ -13,12 +13,27 @@ Repository dedicated to NASA's Space Apps Challenges
   * [Data Pathfinders](https://earthdata.nasa.gov/learn/pathfinders)
   * [Global Imagery Browse Services (GIBS)](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs)
 
-* [Earth Observatory](https://earthobservatory.nasa.gov/)
-
 * [COVID-19 Data Pathfinder](https://earthdata.nasa.gov/learn/pathfinders/covid-19)
   * [Find Seasonality Data](https://earthdata.nasa.gov/learn/pathfinders/covid-19/seasonality)
   * [Find Environmental Impacts Data](https://earthdata.nasa.gov/learn/pathfinders/covid-19/environmental-impacts)
   * [Find Water Availability Data](https://earthdata.nasa.gov/learn/pathfinders/covid-19/water)
   
+* [Curated list of Resources for COVID-19](https://covid19.alexandrebelloni.com/)
+  
+* [Earth Observatory](https://earthobservatory.nasa.gov/)
+  
 * [NASA Github](https://github.com/nasa)
+
+* [Google's Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets)
+
+* [European Space Agency (ESA)](https://www.esa.int/)
+* [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/)
+* [Canadian Space Agency (CSA)](https://asc-csa.gc.ca/eng/open-data/default.asp)
+* [More Resources](https://nasadatanauts.github.io/alexbelloni/pages/capsule-websites.html)
+
+## Search Tools
+
+* [Google Dataset Search](https://datasetsearch.research.google.com/)
+* [Ressource Telescope](https://resource-telescope.web.app/)
+
 
