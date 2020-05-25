@@ -32,13 +32,13 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 * [More Resources](https://nasadatanauts.github.io/alexbelloni/pages/capsule-websites.html)
 
 * [Cesium JS](https://cesium.com/cesiumjs/)
- * [Cesium JS API Reference](https://cesium.com/docs/cesiumjs-ref-doc/)
- * [Cesium and Webpack](https://cesium.com/docs/tutorials/cesium-and-webpack/)
- * [Cesium Smithsonian Eruptions showcase](https://cesium.com/blog/2018/07/24/e3/)
- * [Cesium Weather Visualization showcase](https://cesium.com/blog/2018/06/12/metsafe/)
+  * [Cesium JS API Reference](https://cesium.com/docs/cesiumjs-ref-doc/)
+  * [Cesium and Webpack](https://cesium.com/docs/tutorials/cesium-and-webpack/)
+  * [Cesium Smithsonian Eruptions showcase](https://cesium.com/blog/2018/07/24/e3/)
+  * [Cesium Weather Visualization showcase](https://cesium.com/blog/2018/06/12/metsafe/)
 
 * [Kepler gl](https://kepler.gl/)
- * [Kepler docs](https://docs.kepler.gl/docs)
+  * [Kepler docs](https://docs.kepler.gl/docs)
 
 ## Search Tools
 
