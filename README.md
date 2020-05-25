@@ -4,6 +4,8 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 
 ## Ressources
 
+### Data Ressources
+
 * [NASA Earth Data Program](https://earthdata.nasa.gov/)
   * [Getting Started](https://earthdata.nasa.gov/learn/getting-started)
   * [Data Recipes](https://earthdata.nasa.gov/earth-observation-data/data-recipes)
@@ -32,13 +34,13 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 * [More Resources](https://nasadatanauts.github.io/alexbelloni/pages/capsule-websites.html)
 
 
-## Search Tools
+### Search Tools
 
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 * [Ressource Telescope](https://resource-telescope.web.app/)
 
 
-## Data Visualization Tools
+### Data Visualization Tools
 
 * [Cesium JS](https://cesium.com/cesiumjs/)
   * [Cesium JS API Reference](https://cesium.com/docs/cesiumjs-ref-doc/)
