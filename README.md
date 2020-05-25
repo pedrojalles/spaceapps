@@ -34,11 +34,13 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 * [More Resources](https://nasadatanauts.github.io/alexbelloni/pages/capsule-websites.html)
 
 
-### Search Tools
+### Data Search
 
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
 * [Ressource Telescope](https://resource-telescope.web.app/)
 
+
+## Tools
 
 ### Data Visualization Tools
 
