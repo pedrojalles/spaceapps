@@ -52,5 +52,6 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 
 * [KeplerGl](https://kepler.gl/)
   * [KeplerGl docs](https://docs.kepler.gl/docs)
+  * [KeplerGl data visualization with timelapse showcase](https://github.com/boscacci/Visualizing-NYC-Film-Permit-Data)
 
 
