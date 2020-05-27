@@ -23,15 +23,19 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 * [European Centre for Disease Prevention and Control Covid-19 Data](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
 * [Curated list of Resources for COVID-19](https://covid19.alexandrebelloni.com/)
   
+  
 * [Earth Observatory](https://earthobservatory.nasa.gov/)
   
 * [NASA Github](https://github.com/nasa)
 
 * [Google's Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets)
 
+
 * [European Space Agency (ESA)](https://www.esa.int/)
 * [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/)
 * [Canadian Space Agency (CSA)](https://asc-csa.gc.ca/eng/open-data/default.asp)
+
+
 * [More Resources](https://nasadatanauts.github.io/alexbelloni/pages/capsule-websites.html)
 
 
