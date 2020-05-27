@@ -52,6 +52,7 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 
 * [KeplerGl](https://kepler.gl/)
   * [KeplerGl docs](https://docs.kepler.gl/docs)
+  * [Introductory Guide to Kepler.gl](https://leadr-msu.github.io/kepler-gl/)
   * [KeplerGl data visualization with timelapse showcase](https://github.com/boscacci/Visualizing-NYC-Film-Permit-Data)
   
 * [Plotly](https://plotly.com/)
