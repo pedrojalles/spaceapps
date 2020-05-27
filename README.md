@@ -53,5 +53,13 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
 * [KeplerGl](https://kepler.gl/)
   * [KeplerGl docs](https://docs.kepler.gl/docs)
   * [KeplerGl data visualization with timelapse showcase](https://github.com/boscacci/Visualizing-NYC-Film-Permit-Data)
+  
+* [Plotly](https://plotly.com/)
+  * [Plotly Python](https://plotly.com/python/)
+  * [Plotly Dash](https://plotly.com/dash/)
+
+* [Highcharts](https://www.highcharts.com/)
+
+* [Leaflet JS](https://leafletjs.com/)
 
 
