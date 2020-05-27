@@ -20,6 +20,7 @@ Repository dedicated to [NASA's Space Apps Challenges](https://www.spaceappschal
   * [Find Environmental Impacts Data](https://earthdata.nasa.gov/learn/pathfinders/covid-19/environmental-impacts)
   * [Find Water Availability Data](https://earthdata.nasa.gov/learn/pathfinders/covid-19/water)
   
+* [European Centre for Disease Prevention and Control Covid-19 Data](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
 * [Curated list of Resources for COVID-19](https://covid19.alexandrebelloni.com/)
   
 * [Earth Observatory](https://earthobservatory.nasa.gov/)
